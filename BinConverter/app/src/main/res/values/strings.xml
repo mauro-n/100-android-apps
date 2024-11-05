@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BinConverter</string>
+    <string name="convert_to">Decimal:</string>
+    <string name="input_suport_text">Type here your binary number</string>
+</resources>
